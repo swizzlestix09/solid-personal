@@ -1,4 +1,4 @@
-const aboutMe = [
+export const aboutMe = [
   {
     id: `7775e3ff-e39c-4e7b-9401-60851c0c9b06`,
     content: `Hey there! I'm a full-stack software engineer who thrives on both coding and creativity. Whether I'm enhancing high-traffic pages, mentoring budding developers, or advocating for crypto policies, I'm all about making a positive impact. 🖥
@@ -8,11 +8,11 @@ const aboutMe = [
   },
 ];
 
-const projects = [
+export const projects = [
   {
     id: `fac0d432-96ce-4b7c-b150-ef4f16e83e7c`,
     title: `Stand with Crypto`,
-    content: `Stand With Crypto Alliance is a non-profit organization dedicated to uniting global crypto advocates.`,
+    content: `Stand With Crypto Alliance is a open source non-profit organization dedicated to uniting global crypto advocates.`,
     link: `https://www.standwithcrypto.org/`,
   },
   {
@@ -23,7 +23,7 @@ const projects = [
   },
 ];
 
-const helpfulContent = [
+export const helpfulContent = [
   {
     id: `e612dc7e-63e5-43e6-aca4-683453f73dd6`,
     title: `Why React Re-Renders`,
