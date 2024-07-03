@@ -7,3 +7,51 @@ const aboutMe = [
     Coding is like a canvas for my creative mind, allowing me to constantly dismantle and rebuild with finesse. Plus, my minor obsession with styling ensures sleek, modern interfaces. When I'm not immersed in code, you'll find me on my PS5 🎮, indulging in knitting or sewing projects 🪡, or having quality time with my adorable cats 🐈‍⬛ and baby boy 👦.`,
   },
 ];
+
+const projects = [
+  {
+    id: `fac0d432-96ce-4b7c-b150-ef4f16e83e7c`,
+    title: `Stand with Crypto`,
+    content: `Stand With Crypto Alliance is a non-profit organization dedicated to uniting global crypto advocates.`,
+    link: `https://www.standwithcrypto.org/`,
+  },
+  {
+    id: `ad99b9b1-630a-425c-8b08-711f8ba2510a`,
+    title: `Affirmative Affirmations`,
+    content: `A meditation app supplied with affirmations to set you on the right path in your silent moments. This project was made with a time constraint of 2 days.`,
+    link: `https://github.com/swizzlestix09/AffirmativeMeditations`,
+  },
+];
+
+const helpfulContent = [
+  {
+    id: `e612dc7e-63e5-43e6-aca4-683453f73dd6`,
+    title: `Why React Re-Renders`,
+    author: `Josh W Comeau`,
+    link: `https://www.joshwcomeau.com/react/why-react-re-renders/`,
+  },
+  {
+    id: `3c23f592-f0bd-4af4-82be-1a9523484e3e`,
+    title: `Making Sense of React Server Components`,
+    author: `Josh W Comeau`,
+    link: `https://www.joshwcomeau.com/react/server-components/`,
+  },
+  {
+    id: "5a444baf-c651-4432-8500-69be83077a99",
+    title: "Rules of React",
+    author: "React Team",
+    link: `https://react.dev/reference/rules`,
+  },
+  {
+    id: "329701d3-4160-4510-bea5-4b820145b07b",
+    title: "10 lesser known JavaScript tricks",
+    author: "Creative Byte",
+    link: `https://medium.com/@creativebyte/10-lesser-known-javascript-tricks-a90659e78013`,
+  },
+  {
+    id: "f2347407-2211-4d7b-b6ef-e58fc8245526",
+    title: "6 Advances TypeScript tricks for Clean Code",
+    author: "Marcos Vinicius Gouvea",
+    link: `https://medium.com/@mvsg/6-advanced-typescript-tricks-for-clean-code-90cee774dbf3`,
+  },
+];
